@@ -1,0 +1,7 @@
+作业目录:
+    1. 普通python爬虫:
+        脚本路径: ./request_job/maoyan.py
+        csv路径: ./request_job/maoyan_movies.csv
+    2. scrapy框架作业目录: 
+        scrapy框架路径: ./spider_job\spider_maoyan
+        csv路径: ./spider_job\spider_maoyan\maoyan_movies.csv
